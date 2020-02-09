@@ -1,3 +1,6 @@
 /ssmweb/target
 /mavenDemo/target
 .idea
+/parent/target
+**/target/
+/out
